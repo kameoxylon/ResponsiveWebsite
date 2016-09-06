@@ -1,4 +1,6 @@
-# ResponsiveWebsite
+# How to Run
+- Download and extract zip.
+- Open index.html in a browser.
 
-This is my first website I've ever made. It was one of my assingments at Udacity to replicate a pdf file while giving
-it a responsive image touch. Learning the HTML and CSS for this project was very fun!
+### Project Overview
+For this project I am provided with a design mockup as a PDF-file, and I had to replicate that design in HTML and CSS.
